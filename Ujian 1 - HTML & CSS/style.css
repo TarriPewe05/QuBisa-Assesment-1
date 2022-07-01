@@ -10,8 +10,21 @@ h4{
     margin-bottom: 20px;
 }
 
-.strip{
-    border-width: 3;
-    border-color: red;
-    width: 100%;
+.title{
+  text-align: center;
+  color: #251D3A;
+}
+
+.about{
+  margin-top: 20px;
+}
+
+img{
+  width: 600px;
+  justify-content: center;
+  align-items: center;
+}
+
+.more{
+  text-align: end;
 }
