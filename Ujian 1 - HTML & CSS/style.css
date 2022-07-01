@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h4{
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.strip{
+    border-width: 3;
+    border-color: red;
+    width: 100%;
+}
