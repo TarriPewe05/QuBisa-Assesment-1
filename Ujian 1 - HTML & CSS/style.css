@@ -28,3 +28,25 @@ img{
 .more{
   text-align: end;
 }
+
+.divider{
+  margin-top: -20px;
+  width: 30px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.penutup{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.more{
+  background-color: #EDE6DB!important;
+  height: 3px;
+  width: 50px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
